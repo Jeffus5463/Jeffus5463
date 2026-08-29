@@ -1,5 +1,3 @@
-# Jeff Tan
-
 ### Full-Stack Software Engineer
 
 I build web and mobile applications end-to-end — from database design and backend APIs to frontend interfaces, authentication, testing, and deployment.
