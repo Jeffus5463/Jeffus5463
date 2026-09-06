@@ -36,13 +36,13 @@ Tamper-evident invoice verification platform using cryptographic hashing, RSA di
 
 **Data:** PostgreSQL · SQL · Supabase · SQLite
 
-**Also:** Java · Spring Boot · Git/GitHub · Automated Testing · REST APIs · RBAC · Row-Level Security
+**Also:** Java · Spring Boot · Git/GitHub · Automated Testing · REST APIs · RBAC · Row-Level Security · Docker
 
 ---
 
 ## Currently Exploring
 
-Docker · CI/CD · Cloud Deployment · System Design
+CI/CD · Cloud Deployment · System Design
 
 ---
 
