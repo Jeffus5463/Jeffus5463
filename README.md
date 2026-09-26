@@ -2,10 +2,6 @@
 
 I build web and mobile applications end-to-end — from database design and backend APIs to frontend interfaces, authentication, testing, and deployment.
 
-My main stack is **Python/Django, PostgreSQL, React, TypeScript, React Native, Next.js, and Supabase**.
-
-I use AI-assisted development tools throughout my workflow to prototype, debug, research, and iterate faster.
-
 ---
 
 ## Featured Projects
@@ -25,18 +21,6 @@ Built around scheduling, worker assignment, payments, realtime updates, role-bas
 Tamper-evident invoice verification platform using cryptographic hashing, RSA digital signatures, Merkle-tree audit structures, authenticated REST APIs, and automated testing.
 
 [View Repository](https://github.com/Jeffus5463/vtrust-invoice-verification)
-
----
-
-## Stack
-
-**Frontend:** React · Next.js · TypeScript · React Native · Expo
-
-**Backend:** Python · Django · Django REST Framework · Node.js · Express
-
-**Data:** PostgreSQL · SQL · Supabase · SQLite
-
-**Also:** Java · Spring Boot · Git/GitHub · Automated Testing · REST APIs · RBAC · Row-Level Security · Docker
 
 ---
 
