@@ -6,15 +6,6 @@ I build web and mobile applications end-to-end — from database design and back
 
 ## Featured Projects
 
-### MaidItEasy
-**React Native · Expo · TypeScript · Next.js · PostgreSQL · Supabase**
-
-Multi-sided home-services platform with customer and service-partner mobile apps plus a Next.js admin console.
-
-Built around scheduling, worker assignment, payments, realtime updates, role-based access control, row-level security, and transactional booking workflows.
-
-[View Repository](https://github.com/Jeffus5463/maiditeasy-platform)
-
 ### VTrust
 **Python · Django REST Framework · React · PostgreSQL · RSA · SHA-256 · Merkle Trees**
 
